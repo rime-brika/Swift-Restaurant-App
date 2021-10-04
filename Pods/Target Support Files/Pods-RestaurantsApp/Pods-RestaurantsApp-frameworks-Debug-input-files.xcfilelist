@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-RestaurantsApp/Pods-RestaurantsApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
